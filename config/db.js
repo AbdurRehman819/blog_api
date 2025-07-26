@@ -1,7 +1,8 @@
 const mongoose= require('mongoose');
 const logger = require('../utils/logger'); 
+require('dotenv').config();
 
-const mongodbUrl='mongodb://127.0.0.1:27017/blog';
+const mongodbUrl=process.env.MONGODB_URL || 'mongodb://localhost:27017/blog'; 
 
 mongoose.connect(mongodbUrl,{useNewUrlParser:true,useUnifiedTopology:true});
 
