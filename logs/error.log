@@ -1,0 +1,13 @@
+2025-07-26 01:55:33 [ERROR]: Error in user login: connect ECONNREFUSED 127.0.0.1:27017
+2025-07-26 01:56:38 [ERROR]: Error in user registration: getaddrinfo ENOTFOUND smtp.gmail.com
+2025-07-26 12:19:48 [ERROR]: Error in user registration: User validation failed: password: Path `password` (`12345`) is shorter than the minimum allowed length (6).
+2025-07-26 12:20:39 [ERROR]: Error in user registration: Unexpected socket close
+2025-07-26 12:25:44 [ERROR]: Error in user registration: connect ETIMEDOUT 173.194.76.108:465
+2025-07-26 12:47:24 [ERROR]: Error creating post: Request Timeout
+2025-07-26 12:48:48 [ERROR]: Error creating post: write ECONNRESET
+2025-07-26 12:52:13 [ERROR]: Error creating post: Request Timeout
+2025-07-26 12:52:47 [ERROR]: Error creating post: Request Timeout
+2025-07-26 12:54:22 [ERROR]: Error creating post: Request Timeout
+2025-07-26 12:57:58 [ERROR]: Error creating post:
+2025-07-26 13:02:30 [ERROR]: Error fetching post by slug: posts is not defined
+2025-07-26 13:03:39 [ERROR]: Error fetching post by slug: post.map is not a function

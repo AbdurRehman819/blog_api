@@ -1,0 +1,45 @@
+
+2025-07-26 01:51:58 [INFO]: Mongodb connected successfully
+2025-07-26 01:53:47 [INFO]: Server started on port 3000
+2025-07-26 01:53:47 [INFO]: Mongodb connected successfully
+2025-07-26 01:54:12 [INFO]: User login successfully: abdurrehmanpk819@gmail.com
+2025-07-26 01:54:51 [INFO]: Mongodb disconnected
+2025-07-26 01:54:51 [INFO]: Mongodb disconnected
+2025-07-26 01:55:33 [ERROR]: Error in user login: connect ECONNREFUSED 127.0.0.1:27017
+2025-07-26 01:56:31 [INFO]: Mongodb connected successfully
+2025-07-26 01:56:33 [INFO]: Mongodb connected successfully
+2025-07-26 01:56:38 [ERROR]: Error in user registration: getaddrinfo ENOTFOUND smtp.gmail.com
+2025-07-26 12:19:48 [ERROR]: Error in user registration: User validation failed: password: Path `password` (`12345`) is shorter than the minimum allowed length (6).
+2025-07-26 12:20:39 [ERROR]: Error in user registration: Unexpected socket close
+2025-07-26 12:25:44 [ERROR]: Error in user registration: connect ETIMEDOUT 173.194.76.108:465
+2025-07-26 12:26:23 [INFO]: User registered successfully: ardevsinn@gmail.com
+2025-07-26 12:29:00 [INFO]: User email verified successfully: ardevsinn@gmail.com
+2025-07-26 12:29:47 [INFO]: User login successfully: ardevsinn@gmail.com
+2025-07-26 12:47:24 [ERROR]: Error creating post: Request Timeout
+2025-07-26 12:48:48 [ERROR]: Error creating post: write ECONNRESET
+2025-07-26 12:52:13 [ERROR]: Error creating post: Request Timeout
+2025-07-26 12:52:47 [ERROR]: Error creating post: Request Timeout
+2025-07-26 12:54:22 [ERROR]: Error creating post: Request Timeout
+2025-07-26 12:55:14 [INFO]: Server started on port 3000
+2025-07-26 12:55:14 [INFO]: Server started on port 3000
+2025-07-26 12:55:14 [INFO]: Mongodb connected successfully
+2025-07-26 12:55:14 [INFO]: Mongodb connected successfully
+2025-07-26 12:57:58 [ERROR]: Error creating post:
+2025-07-26 12:58:40 [INFO]: Server started on port 3000
+2025-07-26 12:58:40 [INFO]: Mongodb connected successfully
+2025-07-26 12:58:40 [INFO]: Server started on port 3000
+2025-07-26 12:58:41 [INFO]: Mongodb connected successfully
+2025-07-26 13:02:30 [ERROR]: Error fetching post by slug: posts is not defined
+2025-07-26 13:03:29 [INFO]: Server started on port 3000
+2025-07-26 13:03:29 [INFO]: Mongodb connected successfully
+2025-07-26 13:03:29 [INFO]: Server started on port 3000
+2025-07-26 13:03:29 [INFO]: Mongodb connected successfully
+2025-07-26 13:03:39 [ERROR]: Error fetching post by slug: post.map is not a function
+2025-07-26 13:04:08 [INFO]: Server started on port 3000
+2025-07-26 13:04:08 [INFO]: Mongodb connected successfully
+2025-07-26 13:04:08 [INFO]: Server started on port 3000
+2025-07-26 13:04:08 [INFO]: Mongodb connected successfully
+2025-07-26 13:05:45 [INFO]: Server started on port 3000
+2025-07-26 13:05:45 [INFO]: Mongodb connected successfully
+2025-07-26 13:05:45 [INFO]: Server started on port 3000
+2025-07-26 13:05:45 [INFO]: Mongodb connected successfully
